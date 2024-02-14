@@ -1,0 +1,7 @@
+{
+  "tabs": {
+    "hello.c": "#include <stdio.h>\n\nint main(void){\nprintf(\"Hello, World!\\n\");\n}\n",
+    "mario.c": "#include <stdio.h>\n\nint main(void){\n    \n}\n"
+  },
+  "postback": "http://localhost:8000/testpost"
+}
